@@ -1,2 +1,2 @@
 # projeto-portifolio
-Este é um projeto de iniciante que realizei em um curso de HTML e CSS na Escola DNC.
+Este é um projeto onde eu aprendi a fazer um portifólio, realizei esse projeto em um curso de  HTML e CSS na Escola DNC.
